@@ -450,7 +450,7 @@ p {
 }
 
 .protect-card .link-about {
-  /* مبدأي  */
+ 
   font-weight: 700;
   color: var(--color-primary);
 }
@@ -467,9 +467,7 @@ p {
   color: var(--color-white);
 }
 
-/* the protect card  */
 
-/* the inputs  */
 
 .input-box {
   height: 200px;
@@ -996,7 +994,7 @@ header {
   }
 }
 
-/* هون عنا تجاوزب ال tap تمام */
+
 @media screen and (max-width: 780px) {
   .header-menu,
   .header-button {
@@ -1233,7 +1231,7 @@ header {
 
 /* نهاية التجاوب ال header */
 
-/* تجاوب ال brands  */
+
 
 @media screen and (max-width: 650px) {
   .brands-box {
@@ -2868,6 +2866,6 @@ svg use {
 
 }
 
-/* here we codding the */
+
 
 /* end */
