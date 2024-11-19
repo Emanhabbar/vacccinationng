@@ -1120,9 +1120,33 @@ header {
 }
 
 @media screen and (max-width: 400px) {
+
+  .header-menu {
+    display: none;
+   
+}
+
+.header-menu.visible {
+    display: block;
+    order: 2;
+
+   
+}
+
+
+.header_nav{
+  display: flex;
+  flex-wrap: wrap;
+ 
+   
+}
+.header_icon_box_menu{
+order:1;
+}
   header {
     height: 1150px;
   }
+
   .info-card p {
     font-size: 1rem;
   }
@@ -1165,6 +1189,7 @@ header {
 }
 
 @media screen and (max-width: 330px) {
+
   header {
     height: 1300px;
   }
