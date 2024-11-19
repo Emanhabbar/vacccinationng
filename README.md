@@ -20,4 +20,9 @@
 ## Project Goals 🎯
 
 1. Increase awareness and promote health safety during the COVID-19 pandemic.  
-2. Provide users with a centralized platform for real-time data and actionable health advice.  
+2. Provide users with a centralized platform for real-time data and actionable health advice.
+
+
+
+hosting:
+https://emanhabbar.github.io/vacccinationng/
